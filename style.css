@@ -94,12 +94,12 @@ body{
 @keyframes shakebody
 {
     0%{
-        transform: translateY(-50px);
+        transform: translateY(-5px);
     }
     50%{
-        transform: translateY(50px);
+        transform: translateY(5px);
     }
     100%{
-        transform: translateY(-50px);
+        transform: translateY(-5px);
     }
 }
